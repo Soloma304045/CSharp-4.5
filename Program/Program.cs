@@ -8,4 +8,4 @@ class Program
         var calculator = new Calculator();
         calculator.ProcessFile("../input.txt");
     }
-}//d
+}

@@ -16,3 +16,4 @@ C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Program\obj\Debug\net8.0\re
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Program\obj\Debug\net8.0\Program.pdb
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Program\obj\Debug\net8.0\Program.sourcelink.json

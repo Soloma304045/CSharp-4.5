@@ -9,3 +9,4 @@ C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Library\obj\Debug\net8.0\Li
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Library\obj\Debug\net8.0\refint\Library.dll
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Library\obj\Debug\net8.0\Library.pdb
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Library\obj\Debug\net8.0\ref\Library.dll
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-5\Library\obj\Debug\net8.0\Library.sourcelink.json
